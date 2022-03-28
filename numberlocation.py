@@ -8,7 +8,7 @@ sumNumber = phonenumbers.parse(number)
 
 yourLocation = geocoder.description_for_number(sumNumber, "en")
 
-key = "3374e638cf824c33a4891c783a234ff7"
+key = ##"insert here "
 
 print(yourLocation)
 
